@@ -30,7 +30,7 @@ If you are using SystemJS, you can map to ng2-slimscroll in your configuration.
 ## Use Example:
 
 ```ts
-import {Component} from 'angular2/core';
+import {Component} from '@angular/core';
 import {SlimScroll} from 'ng2-slimscroll';
 
 @Component({
